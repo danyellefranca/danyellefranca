@@ -2,9 +2,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danyellefrancaa)
 
-![Danyelle GitHub stats](https://github-readme-stats.vercel.app/api?username=danyellefranca&show_icons=true&theme=dracula&count_private=true)
-
-
 ## Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block">
